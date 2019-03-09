@@ -1,0 +1,2 @@
+# RepoING
+repozytorium na zajecia
